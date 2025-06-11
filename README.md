@@ -1,18 +1,16 @@
 [![@raginijx's Holopin badges](https://holopin.me/raginijx)](https://holopin.io/@raginijx)
-## Hi
+## Hello World
 
+```bash
+$ whoami
+> I'm Ragini Jain, a Platform Engineer who loves infrastructure, automation, and building internal tools that empower developers.
 
-<!--
-**raginijx/raginijx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ tools & stack
+🖥️  Linux      ☁️  AWS / GCP        🧪 Kubernetes / Helm
+🐳  Docker     ⛓️  Terraform        🧪  GitOps / ArgoCD
+🚀  CI/CD      🐍  Python           🔍  Prometheus / Grafana
 
-Here are some ideas to get you started:
+$ curl https://raginijx.github.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ echo "Thanks for stopping by 👋"
+
