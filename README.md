@@ -5,7 +5,7 @@
 $ whoami
 > I'm Ragini Jain, a Platform Engineer who loves infrastructure, automation, and building internal tools that empower developers.
 
-$ tools & stack
+$ ls tools & stack
 🖥️  Linux      ☁️  AWS / GCP        🧪 Kubernetes / Helm
 🐳  Docker     ⛓️  Terraform        🧪  GitOps / ArgoCD
 🚀  CI/CD      🐍  Python           🔍  Prometheus / Grafana
