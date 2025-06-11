@@ -1,4 +1,6 @@
-## Hi there 👋
+[![@raginijx's Holopin badges](https://holopin.me/raginijx)](https://holopin.io/@raginijx)
+## Hi
+
 
 <!--
 **raginijx/raginijx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
