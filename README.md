@@ -3,7 +3,7 @@
 
 ```bash
 $ whoami
-> I'm Ragini, a Platform Engineer who loves infrastructure, automation, and building internal tools that empower developers.
+> I'm Ragini, a Platform Engineer who loves infrastructure, automation, and building platforms that empower developers and data scientists.
 ```
 ```
 $ ls tools & stack
